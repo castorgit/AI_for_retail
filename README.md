@@ -8,6 +8,7 @@ Most of the datasets are not in this repository. Each Notebook has instructions 
 The Repo is organized as follows
 
 00_Iowa_Liquor_Stores : Examples for the group practice
+
 01_POS_Data : Examples managing Point of Sale datasets
 
 
